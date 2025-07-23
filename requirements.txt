@@ -1,0 +1,10 @@
+os
+dotenv (from python-dotenv)
+openai
+langchain
+langchain_openai
+azure-identity
+IPython.display (for display, Markdown)
+zipfile
+graphviz (optional, for diagrams)
+jupyter / notebook
