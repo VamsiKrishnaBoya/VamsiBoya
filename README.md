@@ -13,7 +13,7 @@ This project implements a **Multi-Agentic AI-based Software Development Life Cyc
 
 ## Project Structure
 
-- `notebook.ipynb` — Main Jupyter notebook orchestrating the agentic SDLC workflow.
+- `AgenticSDLC.ipynb` — Main Jupyter notebook orchestrating the agentic SDLC workflow.
 - `requirements.txt` — Python dependencies.
 - `*.md` — Generated deliverables (requirements, tech stack, risks, infra plan, code, docs, etc.).
 - `agent_workflow_diagram.png` — Visual workflow of all agents.
